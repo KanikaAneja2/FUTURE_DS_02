@@ -1,4 +1,4 @@
-# FUTURE_DS_02 - Customer Retention & Churn Analysis
+# Customer Retention & Churn Analysis Report
 
 ## 📌 Project Overview
 
