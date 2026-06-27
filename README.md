@@ -73,3 +73,22 @@ Key Findings & Business Recommendations
 
 **Kanika Aneja**
 
+---
+
+# 📸 Dashboard Preview
+
+## Customer Churn Analysis Dashboard
+
+![Dashboard Page 1](dashboard_page1.png)
+
+---
+
+## Customer Retention & Lifetime Analysis Dashboard
+
+![Dashboard Page 2](dashboard_page2.png)
+
+---
+
+## Findings & Business Recommendations
+
+![Dashboard Page 3](dashboard_page3.png)
